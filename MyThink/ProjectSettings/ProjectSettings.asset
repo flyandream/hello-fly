@@ -660,10 +660,10 @@ PlayerSettings:
     m_VersionCode: 1
     m_VersionName: 
   apiCompatibilityLevel: 6
-  cloudProjectId: 
+  cloudProjectId: a0b0a596-0a8a-4eea-832d-169bbe0a160f
   framebufferDepthMemorylessMode: 0
-  projectName: 
-  organizationId: 
+  projectName: MyThink
+  organizationId: feiffiefiei
   cloudEnabled: 0
   enableNativePlatformBackendsForNewInputSystem: 0
   disableOldInputManagerSupport: 0
