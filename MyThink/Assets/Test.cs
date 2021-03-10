@@ -11,7 +11,7 @@ public class Test : MonoBehaviour
 
     private void Start()
     {
-         
+        StatManager.instance.Add(new UMengStat());
     }
 
     private void Update()
